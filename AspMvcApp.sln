@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspMvcApp", "AspMvcApp.csproj", "{822402DB-7CF3-4BDC-93DB-6DDC87B188A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLib", "Dependency\ClassLib\ClassLib.csproj", "{A8141B3C-AC42-469B-BE21-5C7D660E301F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{822402DB-7CF3-4BDC-93DB-6DDC87B188A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{822402DB-7CF3-4BDC-93DB-6DDC87B188A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{822402DB-7CF3-4BDC-93DB-6DDC87B188A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8141B3C-AC42-469B-BE21-5C7D660E301F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8141B3C-AC42-469B-BE21-5C7D660E301F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8141B3C-AC42-469B-BE21-5C7D660E301F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8141B3C-AC42-469B-BE21-5C7D660E301F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
